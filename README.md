@@ -1,44 +1,45 @@
-# 🏡 Advanced House Price Prediction  
+# 🏡 House Price Prediction  
 
-> 🚀 My **first internship ML project** — predicting California house prices using **20,640 real housing records**!  
-
----
-
-## ✨ What’s Inside?  
-✅ Data Exploration & Visualizations  
-✅ Smart Feature Engineering (ratios, coastal proximity, etc.)  
-✅ Linear Regression Model  
-✅ Evaluation with R², MAE, RMSE  
+🚀 My **first Machine Learning internship project** — predicting California house prices using **20,640 real housing records**!  
 
 ---
 
-## 📊 Cool Insights  
-💰 **Income** strongly influences house prices  
-🌊 Houses near the **coast** are way more expensive  
-⏳ **House age** shows an interesting non-linear trend  
+## 🔍 Project Highlights  
+- 📊 **Exploratory Data Analysis (EDA)** with visualizations  
+- ⚙️ **Feature Engineering** (ratios, coastal proximity, population density, etc.)  
+- 🧮 **Linear Regression Model** as baseline predictor  
+- 📈 Evaluation using **R², MAE, RMSE**  
 
 ---
 
-## 🛠️ Tech Stack  
-🐍 Python  
-📊 Pandas · NumPy · Matplotlib · Seaborn  
-🤖 Scikit-learn  
+## 💡 Key Insights  
+- 💰 **Median income** is the strongest predictor of house prices  
+- 🌊 Houses closer to the **coastline** are significantly more expensive  
+- ⏳ **House age** shows a non-linear relationship with prices  
 
 ---
 
-## 🚧 Next Steps  
-🔹 Try advanced models (Random Forest, XGBoost)  
-🔹 Tune hyperparameters  
-🔹 Deploy with Streamlit/Flask  
+## 🛠 Tech Stack  
+- 🐍 Python  
+- 📊 Pandas · NumPy · Matplotlib · Seaborn  
+- 🤖 Scikit-learn  
 
 ---
 
-## 🙌 My Takeaway  
-This project taught me the **core workflow of ML**:  
-📥 Get data → 🔍 Explore → ⚙️ Engineer → 🤖 Train → 📉 Evaluate → 🎨 Visualize  
+## 🚀 Next Steps  
+- 🔹 Experiment with advanced models (**Random Forest, Gradient Boosting, XGBoost**)  
+- 🔹 Hyperparameter tuning for better performance  
+- 🔹 Deploy as a **Streamlit/Flask web application**  
 
 ---
 
-🔥 First step into my Machine Learning journey — more creative projects coming soon!  
+## ✨ Learning Outcomes  
+This project helped me understand the **end-to-end ML workflow**:  
+
+📥 Data → 🔍 Explore → ⚙️ Engineer → 🤖 Train → 📉 Evaluate → 🎨 Visualize  
+
+---
+
+🔥 This is just the beginning of my Machine Learning journey — more projects coming soon!  
 
 ---

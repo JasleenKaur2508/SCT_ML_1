@@ -3,10 +3,12 @@
 🚀 My first internship ML project — predicting California house prices using 20,640 real housing records!
 
 🔍 What’s Inside?
-
 ✅ Data Exploration & Visualizations
+
 ✅ Smart Feature Engineering (ratios, coastal proximity, etc.)
+
 ✅ Linear Regression Model
+
 ✅ Evaluation with R², MAE, RMSE
 
 📊 Cool Insights
@@ -21,10 +23,6 @@
 📊 Pandas · NumPy · Matplotlib · Seaborn
 🤖 Scikit-learn
 
-🌟 Sneak Peek
-
-📸 Sample visualizations from the project:
-(Screenshot 1) | (Screenshot 2)
 
 🚧 Next Steps
 

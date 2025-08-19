@@ -5,8 +5,11 @@
 🔍 What’s Inside?
 
 ✅ Data Exploration & Visualizations
+
 ✅ Smart Feature Engineering (ratios, coastal proximity, etc.)
+
 ✅ Linear Regression Model
+
 ✅ Model Evaluation with R², MAE, RMSE
 
 📊 Cool Insights

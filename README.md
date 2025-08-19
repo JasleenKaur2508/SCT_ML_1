@@ -1,4 +1,5 @@
 🏡 Advanced House Price Prediction
+
 🚀 My first internship ML project — predicting California house prices using 20,640 real housing records!
 
 🔍 What’s Inside?
@@ -20,10 +21,6 @@
 📊 Pandas · NumPy · Matplotlib · Seaborn
 🤖 Scikit-learn
 
-🌟 Sneak Peek
-
-📸 Sample visualizations from the project:
-(Screenshot 1) | (Screenshot 2)
 
 🚧 Next Steps
 
